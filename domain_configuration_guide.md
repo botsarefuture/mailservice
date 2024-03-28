@@ -1,5 +1,3 @@
-Below is a detailed domain configuration guide for setting up your domain to send emails through the email sending service hosted at "mailservice.luova.club":
-
 # Domain Configuration Guide
 
 This guide will walk you through the steps to configure your domain for sending emails using the email sending service hosted at "mailservice.luova.club". The configuration involves adding SPF and DKIM records to your domain's DNS settings and verifying domain ownership.
